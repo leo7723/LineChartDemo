@@ -2,7 +2,6 @@ package com.leo.wiipu.linechart;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import com.amap.api.location.AMapLocation;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
